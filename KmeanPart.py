@@ -19,5 +19,3 @@ plt.scatter(centroids[:, 0], centroids[:, 1], marker='x', color='red', s=200)
 plt.title("K-Means Clustering")
 plt.show()
 
-
-###################################################################### PART 3
